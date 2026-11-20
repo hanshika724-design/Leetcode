@@ -9,3 +9,4 @@ class Solution:
 num = int(input("Enter a number: "))
 obj = Solution()
 
+print(obj.countDigits(num))
